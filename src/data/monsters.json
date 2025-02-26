@@ -1,0 +1,2918 @@
+[
+  {
+    "Name": "Aboleth",
+    "Size": "Large",
+    "Race + alignment": "aberration, Lawful Evil",
+    "HP": "135 (18d10+36)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "10 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "10 (5,900 XP)"
+  },
+  {
+    "Name": "Acolyte",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "9 (2d8)",
+    "Armor": "10",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Adult Black Dragon",
+    "Size": "Huge",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "195 (17d12+85)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "14 (11,500 XP)"
+  },
+  {
+    "Name": "Adult Blue Dragon",
+    "Size": "Huge",
+    "Race + alignment": "dragon, Lawful Evil",
+    "HP": "225 (18d12+108)",
+    "Armor": "19",
+    "Speed": "40 ft., burrow 30 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "16 (15,000 XP)"
+  },
+  {
+    "Name": "Adult Brass Dragon",
+    "Size": "Huge",
+    "Race + alignment": "dragon, Chaotic Good",
+    "HP": "172 (15d12+75)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft., burrow 40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "13 (10,000 XP)"
+  },
+  {
+    "Name": "Adult Bronze Dragon",
+    "Size": "Huge",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "212 (17d12+102)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "15 (13,000 XP)"
+  },
+  {
+    "Name": "Adult Copper Dragon",
+    "Size": "Huge",
+    "Race + alignment": "dragon, Chaotic Good",
+    "HP": "184 (16d12+80)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft., climb 40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "14 (11,500 XP)"
+  },
+  {
+    "Name": "Adult Gold Dragon",
+    "Size": "Huge",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "256 (19d12+133)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "17 (18,000 XP)"
+  },
+  {
+    "Name": "Adult Green Dragon",
+    "Size": "Huge",
+    "Race + alignment": "dragon, Lawful Evil",
+    "HP": "207 (18d12+90)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "15 (13,000 XP)"
+  },
+  {
+    "Name": "Adult Red Dragon",
+    "Size": "Huge",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "256 (19d12+133)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "40 ft., climb 40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "17 (18,000 XP)"
+  },
+  {
+    "Name": "Adult Silver Dragon",
+    "Size": "Huge",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "243 (18d12+126)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "16 (15,000 XP)"
+  },
+  {
+    "Name": "Adult White Dragon",
+    "Size": "Huge",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "200 (16d12+96)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "13 (10,000 XP)"
+  },
+  {
+    "Name": "Air Elemental",
+    "Size": "Large",
+    "Race + alignment": "elemental, Neutral",
+    "HP": "90 (12d10+24)",
+    "Armor": "15",
+    "Speed": "0 ft., fly 90 ft. (hover)",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Ancient Black Dragon",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "367 (21d20+147)",
+    "Armor": "22 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "21 (33,000 XP)"
+  },
+  {
+    "Name": "Ancient Blue Dragon",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Lawful Evil",
+    "HP": "481 (26d20+208)",
+    "Armor": "22 (Natural Armor)",
+    "Speed": "40 ft., burrow 40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "23 (50,000 XP)"
+  },
+  {
+    "Name": "Ancient Brass Dragon",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Chaotic Good",
+    "HP": "297 (17d20+119)",
+    "Armor": "20 (Natural Armor)",
+    "Speed": "40 ft., burrow 40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "20 (25,000 XP)"
+  },
+  {
+    "Name": "Ancient Bronze Dragon",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "444 (24d20+192)",
+    "Armor": "22 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "22 (41,000 XP)"
+  },
+  {
+    "Name": "Ancient Copper Dragon",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Chaotic Good",
+    "HP": "350 (20d20+140)",
+    "Armor": "21 (Natural Armor)",
+    "Speed": "40 ft., climb 40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "21 (33,000 XP)"
+  },
+  {
+    "Name": "Ancient Gold Dragon",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "546 (28d20+252)",
+    "Armor": "22 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "24 (62,000 XP)"
+  },
+  {
+    "Name": "Ancient Green Dragon",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Lawful Evil",
+    "HP": "385 (22d20+154)",
+    "Armor": "21 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "22 (41,000 XP)"
+  },
+  {
+    "Name": "Ancient Red Dragon",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "546 (28d20+252)",
+    "Armor": "22 (Natural Armor)",
+    "Speed": "40 ft., climb 40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "24 (62,000 XP)"
+  },
+  {
+    "Name": "Ancient Silver Dragon",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "487 (25d20+225)",
+    "Armor": "22 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "23 (50,000 XP)"
+  },
+  {
+    "Name": "Ancient White Dragon",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "333 (18d20+144)",
+    "Armor": "20 (Natural Armor)",
+    "Speed": "40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "20 (25,000 XP)"
+  },
+  {
+    "Name": "Androsphinx",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Lawful Neutral",
+    "HP": "199 (19d10+95)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "40 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "17 (18,000 XP)"
+  },
+  {
+    "Name": "Animated Armor",
+    "Size": "Medium",
+    "Race + alignment": "construct, Unaligned",
+    "HP": "33 (6d8+6)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "25 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Ankheg",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "39 (6d10+6)",
+    "Armor": "14 (Natural Armor, 11 While Prone)",
+    "Speed": "30 ft., burrow 10 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Ape",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "19 (3d8+6)",
+    "Armor": "12",
+    "Speed": "30 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Archmage",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "99 (18d8+18)",
+    "Armor": "12 (15 With Mage Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "12 (8,400 XP)"
+  },
+  {
+    "Name": "Assassin",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Non-good Alignment",
+    "HP": "78 (12d8+24)",
+    "Armor": "15 (Studded Leather)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "8 (3,900 XP)"
+  },
+  {
+    "Name": "Awakened Shrub",
+    "Size": "Small",
+    "Race + alignment": "plant, Unaligned",
+    "HP": "10 (3d6)",
+    "Armor": "9",
+    "Speed": "20 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Awakened Tree",
+    "Size": "Huge",
+    "Race + alignment": "plant, Unaligned",
+    "HP": "59 (7d12+14)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "20 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Axe Beak",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "19 (3d10+3)",
+    "Armor": "11",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Azer",
+    "Size": "Medium",
+    "Race + alignment": "elemental, Lawful Neutral",
+    "HP": "39 (6d8+12)",
+    "Armor": "17 (Natural Armor, Shield)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Baboon",
+    "Size": "Small",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "3 (1d6)",
+    "Armor": "12",
+    "Speed": "30 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Badger",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "3 (1d4+1)",
+    "Armor": "10",
+    "Speed": "20 ft., burrow 5 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Balor",
+    "Size": "Huge",
+    "Race + alignment": "fiend (demon), Chaotic Evil",
+    "HP": "262 (21d12+126)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "19 (22,000 XP)"
+  },
+  {
+    "Name": "Bandit",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Non-lawful Alignment",
+    "HP": "11 (2d8+2)",
+    "Armor": "12 (Leather Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Bandit Captain",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Non-lawful Alignment",
+    "HP": "65 (10d8+20)",
+    "Armor": "15 (Studded Leather)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Barbed Devil",
+    "Size": "Medium",
+    "Race + alignment": "fiend (devil), Lawful Evil",
+    "HP": "110 (13d8+52)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Basilisk",
+    "Size": "Medium",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "52 (8d8+16)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "20 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Bat",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "12",
+    "Speed": "5 ft., fly 30 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Bearded Devil",
+    "Size": "Medium",
+    "Race + alignment": "fiend (devil), Lawful Evil",
+    "HP": "52 (8d8+16)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Behir",
+    "Size": "Huge",
+    "Race + alignment": "monstrosity, Neutral Evil",
+    "HP": "168 (16d12+64)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "50 ft., climb 40 ft.",
+    "Challenge rating  (XP)": "11 (7,200 XP)"
+  },
+  {
+    "Name": "Berserker",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Chaotic Alignment",
+    "HP": "67 (9d8+27)",
+    "Armor": "13 (Hide Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Black Bear",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "19 (3d8+6)",
+    "Armor": "11 (Natural Armor)",
+    "Speed": "40 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Black Dragon Wyrmling",
+    "Size": "Medium",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "33 (6d8+6)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Black Pudding",
+    "Size": "Large",
+    "Race + alignment": "ooze, Unaligned",
+    "HP": "85 (10d10+30)",
+    "Armor": "7",
+    "Speed": "20 ft., climb 20 ft.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Blink Dog",
+    "Size": "Medium",
+    "Race + alignment": "fey, Lawful Good",
+    "HP": "22 (4d8+4)",
+    "Armor": "13",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Blood Hawk",
+    "Size": "Small",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "7 (2d6)",
+    "Armor": "12",
+    "Speed": "10 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Blue Dragon Wyrmling",
+    "Size": "Medium",
+    "Race + alignment": "dragon, Lawful Evil",
+    "HP": "52 (8d8+16)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., burrow 15 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Boar",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "11 (2d8+2)",
+    "Armor": "11 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Bone Devil",
+    "Size": "Large",
+    "Race + alignment": "fiend (devil), Lawful Evil",
+    "HP": "142 (15d10+60)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "40 ft., fly 40 ft.",
+    "Challenge rating  (XP)": "9 (5,000 XP)"
+  },
+  {
+    "Name": "Brass Dragon Wyrmling",
+    "Size": "Medium",
+    "Race + alignment": "dragon, Chaotic Good",
+    "HP": "16 (3d8+3)",
+    "Armor": "16 (Natural Armor)",
+    "Speed": "30 ft., burrow 15 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Bronze Dragon Wyrmling",
+    "Size": "Medium",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "32 (5d8+10)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Brown Bear",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "34 (4d10+12)",
+    "Armor": "11 (Natural Armor)",
+    "Speed": "40 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Bugbear",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (goblinoid), Chaotic Evil",
+    "HP": "27 (5d8+5)",
+    "Armor": "16 (Hide Armor, Shield)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Bulette",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "94 (9d10+45)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "40 ft., burrow 40 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Camel",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "15 (2d10+4)",
+    "Armor": "9",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Cat",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "2 (1d4)",
+    "Armor": "12",
+    "Speed": "40 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Centaur",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Neutral Good",
+    "HP": "45 (6d10+12)",
+    "Armor": "12",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Chain Devil",
+    "Size": "Medium",
+    "Race + alignment": "fiend (devil), Lawful Evil",
+    "HP": "85 (10d8+40)",
+    "Armor": "16 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "8 (3,900 XP)"
+  },
+  {
+    "Name": "Chimera",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Chaotic Evil",
+    "HP": "114 (12d10+48)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "6 (2,300 XP)"
+  },
+  {
+    "Name": "Chuul",
+    "Size": "Large",
+    "Race + alignment": "aberration, Chaotic Evil",
+    "HP": "93 (11d10+33)",
+    "Armor": "16 (Natural Armor)",
+    "Speed": "30 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Clay Golem",
+    "Size": "Large",
+    "Race + alignment": "construct, Unaligned",
+    "HP": "133 (14d10+56)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "20 ft.",
+    "Challenge rating  (XP)": "9 (5,000 XP)"
+  },
+  {
+    "Name": "Cloaker",
+    "Size": "Large",
+    "Race + alignment": "aberration, Chaotic Neutral",
+    "HP": "78 (12d10+12)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "10 ft., fly 40 ft.",
+    "Challenge rating  (XP)": "8 (3,900 XP)"
+  },
+  {
+    "Name": "Cloud Giant",
+    "Size": "Huge",
+    "Race + alignment": "giant, Neutral Good (50%) Or Neutral Evil (50%)",
+    "HP": "200 (16d12+96)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "9 (5,000 XP)"
+  },
+  {
+    "Name": "Cockatrice",
+    "Size": "Small",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "27 (6d6+6)",
+    "Armor": "11",
+    "Speed": "20 ft., fly 40 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Commoner",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "4 (1d8)",
+    "Armor": "10",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Constrictor Snake",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "13 (2d10+2)",
+    "Armor": "12",
+    "Speed": "30 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Copper Dragon Wyrmling",
+    "Size": "Medium",
+    "Race + alignment": "dragon, Chaotic Good",
+    "HP": "22 (4d8+4)",
+    "Armor": "16 (Natural Armor)",
+    "Speed": "30 ft., climb 30 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Couatl",
+    "Size": "Medium",
+    "Race + alignment": "celestial, Lawful Good",
+    "HP": "97 (13d8+39)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "30 ft., fly 90 ft.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Crab",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "2 (1d4)",
+    "Armor": "11 (Natural Armor)",
+    "Speed": "20 ft., swim 20 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Crocodile",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "19 (3d10+3)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "20 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Cult Fanatic",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Non-good Alignment",
+    "HP": "33 (6d8+6)",
+    "Armor": "13 (Leather Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Cultist",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Non-good Alignment",
+    "HP": "9 (2d8)",
+    "Armor": "12 (Leather Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Darkmantle",
+    "Size": "Small",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "22 (5d6+5)",
+    "Armor": "11",
+    "Speed": "10 ft., fly 30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Death Dog",
+    "Size": "Medium",
+    "Race + alignment": "monstrosity, Neutral Evil",
+    "HP": "39 (6d8+12)",
+    "Armor": "12",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Deep Gnome (Svirfneblin)",
+    "Size": "Small",
+    "Race + alignment": "humanoid (gnome), Neutral Good",
+    "HP": "16 (3d6 + 6)",
+    "Armor": "15 (chain shirt)",
+    "Speed": "20 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Deer",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "4 (1d8)",
+    "Armor": "13",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Deva",
+    "Size": "Medium",
+    "Race + alignment": "celestial, Lawful Good",
+    "HP": "136 (16d8+64)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., fly 90 ft.",
+    "Challenge rating  (XP)": "10 (5,900 XP)"
+  },
+  {
+    "Name": "Dire Wolf",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "37 (5d10+10)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Diseased Giant Rat",
+    "Size": "Small",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "7",
+    "Armor": "12",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Djinni",
+    "Size": "Large",
+    "Race + alignment": "elemental, Chaotic Good",
+    "HP": "161 (14d10+84)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., fly 90 ft.",
+    "Challenge rating  (XP)": "11 (7,200 XP)"
+  },
+  {
+    "Name": "Doppelganger",
+    "Size": "Medium",
+    "Race + alignment": "monstrosity (shapechanger), Unaligned",
+    "HP": "52 (8d8+16)",
+    "Armor": "14",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Draft Horse",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "19 (3d10+3)",
+    "Armor": "10",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Dragon Turtle",
+    "Size": "Gargantuan",
+    "Race + alignment": "dragon, Neutral",
+    "HP": "341 (22d20+10)",
+    "Armor": "20 (Natural Armor)",
+    "Speed": "20 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "17 (18,000 XP)"
+  },
+  {
+    "Name": "Dretch",
+    "Size": "Small",
+    "Race + alignment": "fiend (demon), Chaotic Evil",
+    "HP": "18 (4d6+4)",
+    "Armor": "11 (Natural Armor)",
+    "Speed": "20 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Drider",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Chaotic Evil",
+    "HP": "123 (13d10+52)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "30 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "6 (2,300 XP)"
+  },
+  {
+    "Name": "Drow",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (elf), Neutral Evil",
+    "HP": "13 (3d8)",
+    "Armor": "15 (Chain Shirt)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Druid",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "27 (5d8+5)",
+    "Armor": "11 (16 With Barkskin)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Dryad",
+    "Size": "Medium",
+    "Race + alignment": "fey, Neutral",
+    "HP": "22 (5d8)",
+    "Armor": "11 (16 With Barkskin)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Duergar",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (dwarf), Lawful Evil",
+    "HP": "26 (4d8+4)",
+    "Armor": "16 (Scale Mail, Shield)",
+    "Speed": "25 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Dust Mephit",
+    "Size": "Small",
+    "Race + alignment": "elemental, Neutral Evil",
+    "HP": "17 (5d6)",
+    "Armor": "12",
+    "Speed": "30 ft., fly 30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Eagle",
+    "Size": "Small",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "3 (1d6)",
+    "Armor": "12",
+    "Speed": "10 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Earth Elemental",
+    "Size": "Large",
+    "Race + alignment": "elemental, Neutral",
+    "HP": "126 (12d10+60)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., burrow 30 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Efreeti",
+    "Size": "Large",
+    "Race + alignment": "elemental, Lawful Evil",
+    "HP": "200 (16d10+112)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "40 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "11 (7,200 XP)"
+  },
+  {
+    "Name": "Elephant",
+    "Size": "Huge",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "76 (8d12+24)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Elk",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "13 (2d10+2)",
+    "Armor": "10",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Erinyes",
+    "Size": "Medium",
+    "Race + alignment": "fiend (devil), Lawful Evil",
+    "HP": "153 (18d8+72)",
+    "Armor": "18 (Plate)",
+    "Speed": "30 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "12 (8,400 XP)"
+  },
+  {
+    "Name": "Ettercap",
+    "Size": "Medium",
+    "Race + alignment": "monstrosity, Neutral Evil",
+    "HP": "44 (8d8+8)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "30 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Ettin",
+    "Size": "Large",
+    "Race + alignment": "giant, Chaotic Evil",
+    "HP": "85 (10d10+30)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Fire Elemental",
+    "Size": "Large",
+    "Race + alignment": "elemental, Neutral",
+    "HP": "102 (12d10+36)",
+    "Armor": "13",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Fire Giant",
+    "Size": "Huge",
+    "Race + alignment": "giant, Lawful Evil",
+    "HP": "162 (13d12+78)",
+    "Armor": "18 (Plate)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "9 (5,000 XP)"
+  },
+  {
+    "Name": "Flesh Golem",
+    "Size": "Medium",
+    "Race + alignment": "construct, Neutral",
+    "HP": "93 (11d8+44)",
+    "Armor": "9",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Flying Snake",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "5 (2d4)",
+    "Armor": "14",
+    "Speed": "30 ft., fly 60 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Flying Sword",
+    "Size": "Small",
+    "Race + alignment": "construct, Unaligned",
+    "HP": "17 (5d6)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "0 ft., fly 50 ft. It can hover.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Frog",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "11",
+    "Speed": "20 ft., swim 20 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Frost Giant",
+    "Size": "Huge",
+    "Race + alignment": "giant, Neutral Evil",
+    "HP": "138 (12d12+60)",
+    "Armor": "15 (Patchwork Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "8 (3,900 XP)"
+  },
+  {
+    "Name": "Gargoyle",
+    "Size": "Medium",
+    "Race + alignment": "elemental, Chaotic Evil",
+    "HP": "52 (7d8+21)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Gelatinous Cube",
+    "Size": "Large",
+    "Race + alignment": "ooze, Unaligned",
+    "HP": "84 (8d10+40)",
+    "Armor": "6",
+    "Speed": "15 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Ghast",
+    "Size": "Medium",
+    "Race + alignment": "undead, Chaotic Evil",
+    "HP": "36 (8d8)",
+    "Armor": "13",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Ghost",
+    "Size": "Medium",
+    "Race + alignment": "undead, Any Alignment",
+    "HP": "45 (10d8)",
+    "Armor": "11",
+    "Speed": "0 ft., fly 40 ft. It can hover.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Ghoul",
+    "Size": "Medium",
+    "Race + alignment": "undead, Chaotic Evil",
+    "HP": "22 (5d8)",
+    "Armor": "12",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Giant Ape",
+    "Size": "Huge",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "157 (15d12+60)",
+    "Armor": "12",
+    "Speed": "40 ft., climb 40 ft.",
+    "Challenge rating  (XP)": "7 (2,900 XP)"
+  },
+  {
+    "Name": "Giant Badger",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "13 (2d8+4)",
+    "Armor": "10",
+    "Speed": "30 ft., burrow 10 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Giant Bat",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "22 (4d10)",
+    "Armor": "13",
+    "Speed": "10 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Giant Boar",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "42 (5d10+15)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Giant Centipede",
+    "Size": "Small",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "4 (1d6+1)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "30 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Giant Constrictor Snake",
+    "Size": "Huge",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "60 (8d12+8)",
+    "Armor": "12",
+    "Speed": "30 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Giant Crab",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "13 (3d8)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Giant Crocodile",
+    "Size": "Huge",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "85 (9d12+27)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "30 ft., swim 50 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Giant Eagle",
+    "Size": "Large",
+    "Race + alignment": "beast, Neutral Good",
+    "HP": "26 (4d10+4)",
+    "Armor": "13",
+    "Speed": "10 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Giant Elk",
+    "Size": "Huge",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "42 (5d12+10)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "60 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Giant Fire Beetle",
+    "Size": "Small",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "4 (1d6+1)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Giant Frog",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "18 (4d8)",
+    "Armor": "11",
+    "Speed": "30 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Giant Goat",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "19 (3d10+3)",
+    "Armor": "11 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Giant Hyena",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "45 (6d10+12)",
+    "Armor": "12",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Giant Lizard",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "19 (3d10+3)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "30 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Giant Octopus",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "52 (8d10+8)",
+    "Armor": "11",
+    "Speed": "10 ft., swim 60 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Giant Owl",
+    "Size": "Large",
+    "Race + alignment": "beast, Neutral",
+    "HP": "19 (3d10+3)",
+    "Armor": "12",
+    "Speed": "5 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Giant Poisonous Snake",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "11 (2d8+2)",
+    "Armor": "14",
+    "Speed": "30 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Giant Rat",
+    "Size": "Small",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "7 (2d6)",
+    "Armor": "12",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Giant Scorpion",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "52 (7d10+14)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Giant Sea Horse",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "16 (3d10)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "0 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Giant Shark",
+    "Size": "Huge",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "126 (11d12+55)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "Swim 50 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Giant Spider",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "26 (4d10+4)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "30 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Giant Toad",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "39 (6d10+6)",
+    "Armor": "11",
+    "Speed": "20 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Giant Vulture",
+    "Size": "Large",
+    "Race + alignment": "beast, Neutral Evil",
+    "HP": "22 (3d10+6)",
+    "Armor": "10",
+    "Speed": "10 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Giant Wasp",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "13 (3d8)",
+    "Armor": "12",
+    "Speed": "10 ft., fly 50 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Giant Weasel",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "9 (2d8)",
+    "Armor": "13",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Giant Wolf Spider",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "11 (2d8+2)",
+    "Armor": "13",
+    "Speed": "40 ft., climb 40 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Gibbering Mouther",
+    "Size": "Medium",
+    "Race + alignment": "aberration, Neutral",
+    "HP": "67 (9d8+27)",
+    "Armor": "9",
+    "Speed": "10 ft., swim 10 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Glabrezu",
+    "Size": "Large",
+    "Race + alignment": "fiend (demon), Chaotic Evil",
+    "HP": "157 (15d10+75)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "9 (5,000 XP)"
+  },
+  {
+    "Name": "Gladiator",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "112 (15d8+45)",
+    "Armor": "16 (Studded Leather, Shield)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Gnoll",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (gnoll), Chaotic Evil",
+    "HP": "22 (5d8)",
+    "Armor": "15 (Hide Armor, Shield)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Goat",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "4 (1d8)",
+    "Armor": "10",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Goblin",
+    "Size": "Small",
+    "Race + alignment": "humanoid (goblinoid), Neutral Evil",
+    "HP": "7 (2d6)",
+    "Armor": "15 (Leather Armor, Shield)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Gold Dragon Wyrmling",
+    "Size": "Medium",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "60 (8d8+24)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Gorgon",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "114 (12d10+48)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Gray Ooze",
+    "Size": "Medium",
+    "Race + alignment": "ooze, Unaligned",
+    "HP": "22 (3d8+9)",
+    "Armor": "8",
+    "Speed": "10 ft., climb 10 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Green Dragon Wyrmling",
+    "Size": "Medium",
+    "Race + alignment": "dragon, Lawful Evil",
+    "HP": "38 (7d8+7)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Green Hag",
+    "Size": "Medium",
+    "Race + alignment": "fey, Neutral Evil",
+    "HP": "82 (11d8+33)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Grick",
+    "Size": "Medium",
+    "Race + alignment": "monstrosity, Neutral",
+    "HP": "27 (6d8)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "30 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Griffon",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "59 (7d10+21)",
+    "Armor": "12",
+    "Speed": "30 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Grimlock",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (grimlock), Neutral Evil",
+    "HP": "11 (2d8+2)",
+    "Armor": "11",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Guard",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "11 (2d8+2)",
+    "Armor": "16 (Chain Shirt, Shield)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Guardian Naga",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Lawful Good",
+    "HP": "127 (15d10+45)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "10 (5,900 XP)"
+  },
+  {
+    "Name": "Gynosphinx",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Lawful Neutral",
+    "HP": "136 (16d10+48)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "40 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "11 (7,200 XP)"
+  },
+  {
+    "Name": "Half-Red Dragon Veteran",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (human), Any",
+    "HP": "65 (10d8+20)",
+    "Armor": "18 (plate)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Harpy",
+    "Size": "Medium",
+    "Race + alignment": "monstrosity, Chaotic Evil",
+    "HP": "38 (7d8+7)",
+    "Armor": "11",
+    "Speed": "20 ft., fly 40 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Hawk",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "13",
+    "Speed": "10 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Hell Hound",
+    "Size": "Medium",
+    "Race + alignment": "fiend, Lawful Evil",
+    "HP": "45 (7d8+14)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Hezrou",
+    "Size": "Large",
+    "Race + alignment": "fiend (demon), Chaotic Evil",
+    "HP": "136 (13d10+65)",
+    "Armor": "16 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "8 (3,900 XP)"
+  },
+  {
+    "Name": "Hill Giant",
+    "Size": "Huge",
+    "Race + alignment": "giant, Chaotic Evil",
+    "HP": "105 (10d12+40)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Hippogriff",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "19 (3d10+3)",
+    "Armor": "11",
+    "Speed": "40 ft, fly 60 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Hobgoblin",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (goblinoid), Lawful Evil",
+    "HP": "11 (2d8+2)",
+    "Armor": "18 (Chain Mail, Shield)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Homunculus",
+    "Size": "Tiny",
+    "Race + alignment": "construct, Neutral",
+    "HP": "5 (2d4)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "20 ft., fly 40 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Horned Devil",
+    "Size": "Large",
+    "Race + alignment": "fiend (devil), Lawful Evil",
+    "HP": "178 (17d10+85)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "20 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "11 (7,200 XP)"
+  },
+  {
+    "Name": "Hunter Shark",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "45 (6d10+12)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "Swim 40 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Hydra",
+    "Size": "Huge",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "172 (15d12+75)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "8 (3,900 XP)"
+  },
+  {
+    "Name": "Hyena",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "5 (1d8+1)",
+    "Armor": "11",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Ice Devil",
+    "Size": "Large",
+    "Race + alignment": "fiend (devil), Lawful Evil",
+    "HP": "180 (19d10+76)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "14 (11,500 XP)"
+  },
+  {
+    "Name": "Ice Mephit",
+    "Size": "Small",
+    "Race + alignment": "elemental, Neutral Evil",
+    "HP": "21 (6d6)",
+    "Armor": "11",
+    "Speed": "30 ft., fly 30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Imp",
+    "Size": "Tiny",
+    "Race + alignment": "fiend (devil, shapechanger), Lawful Evil",
+    "HP": "10 (3d4+3)",
+    "Armor": "13",
+    "Speed": "20 ft., fly 40 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Incubus",
+    "Size": "Medium",
+    "Race + alignment": "Fiend (Shapechanger), Neutral Evil",
+    "HP": "66 (12d8 + 12)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Invisible Stalker",
+    "Size": "Medium",
+    "Race + alignment": "elemental, Neutral",
+    "HP": "104 (16d8+32)",
+    "Armor": "14",
+    "Speed": "50 ft., fly 50 ft. (hover)",
+    "Challenge rating  (XP)": "6 (2,300 XP)"
+  },
+  {
+    "Name": "Iron Golem",
+    "Size": "Large",
+    "Race + alignment": "construct, Unaligned",
+    "HP": "210 (20d10+100)",
+    "Armor": "20 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "16 (15,000 XP)"
+  },
+  {
+    "Name": "Jackal",
+    "Size": "Small",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "3 (1d6)",
+    "Armor": "12",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Killer Whale",
+    "Size": "Huge",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "90 (12d12+12)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "Swim 60 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Knight",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "52 (8d8+16)",
+    "Armor": "18 (Plate)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Kobold",
+    "Size": "Small",
+    "Race + alignment": "humanoid (kobold), Lawful Evil",
+    "HP": "5 (2d6-2)",
+    "Armor": "12",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Kraken",
+    "Size": "Gargantuan",
+    "Race + alignment": "monstrosity (titan), Chaotic Evil",
+    "HP": "472 (27d20+189)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "20 ft., swim 60 ft.",
+    "Challenge rating  (XP)": "23 (50,000 XP)"
+  },
+  {
+    "Name": "Lamia",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Chaotic Evil",
+    "HP": "97 (13d10+26)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Lemure",
+    "Size": "Medium",
+    "Race + alignment": "fiend (devil), Lawful Evil",
+    "HP": "13 (3d8)",
+    "Armor": "7",
+    "Speed": "15 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Lich",
+    "Size": "Medium",
+    "Race + alignment": "undead, Any Evil Alignment",
+    "HP": "135 (18d8+54)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "21 (33,000 XP)"
+  },
+  {
+    "Name": "Lion",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "26 (4d10+4)",
+    "Armor": "12",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Lizard",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "2 (1d4)",
+    "Armor": "10",
+    "Speed": "20 ft., climb 20 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Lizardfolk",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (lizardfolk), Neutral",
+    "HP": "22 (4d8+4)",
+    "Armor": "15 (Natural Armor, Shield)",
+    "Speed": "30 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Mage",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "40 (9d8)",
+    "Armor": "12 (15 With Mage Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "6 (2,300 XP)"
+  },
+  {
+    "Name": "Magma Mephit",
+    "Size": "Small",
+    "Race + alignment": "elemental, Neutral Evil",
+    "HP": "22 (5d6+5)",
+    "Armor": "11",
+    "Speed": "30 ft., fly 30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Magmin",
+    "Size": "Small",
+    "Race + alignment": "elemental, Chaotic Neutral",
+    "HP": "9 (2d6+2)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Mammoth",
+    "Size": "Huge",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "126 (11d12+55)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "6 (2,300 XP)"
+  },
+  {
+    "Name": "Manticore",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Lawful Evil",
+    "HP": "68 (8d10+24)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "30 ft., fly 50 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Marilith",
+    "Size": "Large",
+    "Race + alignment": "fiend (demon), Chaotic Evil",
+    "HP": "189 (18d10+90)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "16 (15,000 XP)"
+  },
+  {
+    "Name": "Mastiff",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "5 (1d8+1)",
+    "Armor": "12",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Medusa",
+    "Size": "Medium",
+    "Race + alignment": "monstrosity, Lawful Evil",
+    "HP": "127 (17d8+51)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "6 (2,300 XP)"
+  },
+  {
+    "Name": "Merfolk",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (merfolk), Neutral",
+    "HP": "11 (2d8+2)",
+    "Armor": "11",
+    "Speed": "10 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Merrow",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Chaotic Evil",
+    "HP": "45 (6d10+12)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "10 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Mimic",
+    "Size": "Medium",
+    "Race + alignment": "monstrosity (shapechanger), Neutral",
+    "HP": "58 (9d8+18)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "15 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Minotaur",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Chaotic Evil",
+    "HP": "76 (9d10+27)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Minotaur Skeleton",
+    "Size": "Large",
+    "Race + alignment": "undead, Lawful Evil",
+    "HP": "67 (9d10+18)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Mule",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "11 (2d8+2)",
+    "Armor": "10",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Mummy",
+    "Size": "Medium",
+    "Race + alignment": "undead, Lawful Evil",
+    "HP": "58 (9d8+18)",
+    "Armor": "11 (Natural Armor)",
+    "Speed": "20 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Mummy Lord",
+    "Size": "Medium",
+    "Race + alignment": "undead, Lawful Evil",
+    "HP": "97 (13d8+39)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "20 ft.",
+    "Challenge rating  (XP)": "15 (13,000 XP)"
+  },
+  {
+    "Name": "Nalfeshnee",
+    "Size": "Large",
+    "Race + alignment": "fiend (demon), Chaotic Evil",
+    "HP": "184 (16d10+96)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "20 ft., fly 30 ft.",
+    "Challenge rating  (XP)": "13 (10,000 XP)"
+  },
+  {
+    "Name": "Night Hag",
+    "Size": "Medium",
+    "Race + alignment": "fiend, Neutral Evil",
+    "HP": "112 (15d8+45)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Nightmare",
+    "Size": "Large",
+    "Race + alignment": "fiend, Neutral Evil",
+    "HP": "68 (8d10+24)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "60 ft., fly 90 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Noble",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "9 (2d8)",
+    "Armor": "15 (Breastplate)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Ochre Jelly",
+    "Size": "Large",
+    "Race + alignment": "ooze, Unaligned",
+    "HP": "45 (6d10+12)",
+    "Armor": "8",
+    "Speed": "10 ft., climb 10 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Octopus",
+    "Size": "Small",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "3 (1d6)",
+    "Armor": "12",
+    "Speed": "5 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Ogre",
+    "Size": "Large",
+    "Race + alignment": "giant, Chaotic Evil",
+    "HP": "59 (7d10+21)",
+    "Armor": "11 (Hide Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Ogre Zombie",
+    "Size": "Large",
+    "Race + alignment": "undead, Neutral Evil",
+    "HP": "85 (9d10+36)",
+    "Armor": "8",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Oni",
+    "Size": "Large",
+    "Race + alignment": "giant, Lawful Evil",
+    "HP": "110 (13d10+39)",
+    "Armor": "16 (Chain Mail)",
+    "Speed": "30 ft., fly 30 ft.",
+    "Challenge rating  (XP)": "7 (2,900 XP)"
+  },
+  {
+    "Name": "Orc",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (orc), Chaotic Evil",
+    "HP": "15 (2d8+6)",
+    "Armor": "13 (Hide Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Otyugh",
+    "Size": "Large",
+    "Race + alignment": "aberration, Neutral",
+    "HP": "114 (12d10+48)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Owl",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "11",
+    "Speed": "5 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Owlbear",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "59 (7d10+21)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Panther",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "13 (3d8)",
+    "Armor": "12",
+    "Speed": "50 ft., climb 40 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Pegasus",
+    "Size": "Large",
+    "Race + alignment": "celestial, Chaotic Good",
+    "HP": "59 (7d10+21)",
+    "Armor": "12",
+    "Speed": "60 ft., fly 90 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Phase Spider",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "32 (5d10+5)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "30 ft., climb 30 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Pit Fiend",
+    "Size": "Large",
+    "Race + alignment": "fiend (devil), Lawful Evil",
+    "HP": "300 (24d10+168)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "20 (25,000 XP)"
+  },
+  {
+    "Name": "Planetar",
+    "Size": "Large",
+    "Race + alignment": "celestial, Lawful Good",
+    "HP": "200 (16d10+112)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "40 ft., fly 120 ft.",
+    "Challenge rating  (XP)": "16 (15,000 XP)"
+  },
+  {
+    "Name": "Plesiosaurus",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "68 (8d10+24)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "20 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Poisonous Snake",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "2 (1d4)",
+    "Armor": "13",
+    "Speed": "30 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Polar Bear",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "42 (5d10+15)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "40 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Pony",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "11 (2d8+2)",
+    "Armor": "10",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Priest",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "27 (5d8+5)",
+    "Armor": "13 (Chain Shirt)",
+    "Speed": "25 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Pseudodragon",
+    "Size": "Tiny",
+    "Race + alignment": "dragon, Neutral Good",
+    "HP": "7 (2d4+2)",
+    "Armor": "13",
+    "Speed": "15 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Purple Worm",
+    "Size": "Gargantuan",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "247 (15d20+90)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "50 ft., burrow 30 ft.",
+    "Challenge rating  (XP)": "15 (13,000 XP)"
+  },
+  {
+    "Name": "Quasit",
+    "Size": "Tiny",
+    "Race + alignment": "fiend (demon), Chaotic Evil",
+    "HP": "7 (3d4)",
+    "Armor": "13",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Quipper",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "13",
+    "Speed": "Swim 40 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Rakshasa",
+    "Size": "Medium",
+    "Race + alignment": "fiend, Lawful Evil",
+    "HP": "110 (13d8+52)",
+    "Armor": "16 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "13 (10,000 XP)"
+  },
+  {
+    "Name": "Rat",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "10",
+    "Speed": "20 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Raven",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "12",
+    "Speed": "10 ft., fly 50 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Red Dragon Wyrmling",
+    "Size": "Medium",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "75 (10d8+30)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., climb 30 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Reef Shark",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "22 (4d8+4)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "Swim 40 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Remorhaz",
+    "Size": "Huge",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "195 (17d12+85)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., burrow 20 ft.",
+    "Challenge rating  (XP)": "11 (7,200 XP)"
+  },
+  {
+    "Name": "Rhinoceros",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "45 (6d10+12)",
+    "Armor": "11 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Riding Horse",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "13 (2d10+2)",
+    "Armor": "10",
+    "Speed": "60 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Roc",
+    "Size": "Gargantuan",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "248 (16d20+80)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "20 ft., fly 120 ft.",
+    "Challenge rating  (XP)": "11 (7,200 XP)"
+  },
+  {
+    "Name": "Roper",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Neutral Evil",
+    "HP": "93 (11d10+33)",
+    "Armor": "20 (Natural Armor)",
+    "Speed": "10 ft., climb 10 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Rug of Smothering",
+    "Size": "Large",
+    "Race + alignment": "construct, Unaligned",
+    "HP": "33 (6d10)",
+    "Armor": "12",
+    "Speed": "10 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Rust Monster",
+    "Size": "Medium",
+    "Race + alignment": "monstrosity, Unaligned",
+    "HP": "27 (5d8+5)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Saber-Toothed Tiger",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "52 (7d10 + 14)",
+    "Armor": "12",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Sahuagin",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (sahuagin), Lawful Evil",
+    "HP": "22 (4d8+4)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "30 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Salamander",
+    "Size": "Large",
+    "Race + alignment": "elemental, Neutral Evil",
+    "HP": "90 (12d10+24)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Satyr",
+    "Size": "Medium",
+    "Race + alignment": "fey, Chaotic Neutral",
+    "HP": "31 (7d8)",
+    "Armor": "14 (Leather Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Scorpion",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "11 (Natural Armor)",
+    "Speed": "10 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Scout",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "16 (3d8+3)",
+    "Armor": "13 (Leather Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Sea Hag",
+    "Size": "Medium",
+    "Race + alignment": "fey, Chaotic Evil",
+    "HP": "52 (7d8+21)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "30 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Sea Horse",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "11",
+    "Speed": "Swim 20 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Shadow",
+    "Size": "Medium",
+    "Race + alignment": "undead, Chaotic Evil",
+    "HP": "16 (3d8+3)",
+    "Armor": "12",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Shambling Mound",
+    "Size": "Large",
+    "Race + alignment": "plant, Unaligned",
+    "HP": "136 (16d10+48)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "20 ft., swim 20 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Shield Guardian",
+    "Size": "Large",
+    "Race + alignment": "construct, Unaligned",
+    "HP": "142 (15d10+60)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "7 (2,900 XP)"
+  },
+  {
+    "Name": "Shrieker",
+    "Size": "Medium",
+    "Race + alignment": "plant, Unaligned",
+    "HP": "13 (3d8)",
+    "Armor": "5",
+    "Speed": "0 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Silver Dragon Wyrmling",
+    "Size": "Medium",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "45 (6d8+18)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Skeleton",
+    "Size": "Medium",
+    "Race + alignment": "undead, Lawful Evil",
+    "HP": "13 (2d8+4)",
+    "Armor": "13 (Armor Scraps)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Solar",
+    "Size": "Large",
+    "Race + alignment": "celestial, Lawful Good",
+    "HP": "243 (18d10+144)",
+    "Armor": "21 (Natural Armor)",
+    "Speed": "50 ft., fly 150 ft.",
+    "Challenge rating  (XP)": "21 (33,000 XP)"
+  },
+  {
+    "Name": "Specter",
+    "Size": "Medium",
+    "Race + alignment": "undead, Chaotic Evil",
+    "HP": "22 (5d8)",
+    "Armor": "12",
+    "Speed": "0 ft., fly 50 ft. (hover)",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Spider",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "12",
+    "Speed": "20 ft., climb 20 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Spirit Naga",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Chaotic Evil",
+    "HP": "75 (10d10+20)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "8 (3,900 XP)"
+  },
+  {
+    "Name": "Sprite",
+    "Size": "Tiny",
+    "Race + alignment": "fey, Neutral Good",
+    "HP": "2 (1d4)",
+    "Armor": "15 (Leather Armor)",
+    "Speed": "10 ft., fly 40 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Spy",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "27 (6d8)",
+    "Armor": "12",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Steam Mephit",
+    "Size": "Small",
+    "Race + alignment": "elemental, Neutral Evil",
+    "HP": "21 (6d6)",
+    "Armor": "10",
+    "Speed": "30 ft., fly 30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Stirge",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "2 (1d4)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "10 ft., fly 40 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Stone Giant",
+    "Size": "Huge",
+    "Race + alignment": "giant, Neutral",
+    "HP": "126 (11d12+55)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "7 (2,900 XP)"
+  },
+  {
+    "Name": "Stone Golem",
+    "Size": "Large",
+    "Race + alignment": "construct, Unaligned",
+    "HP": "178 (17d10+85)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "10 (5,900 XP)"
+  },
+  {
+    "Name": "Storm Giant",
+    "Size": "Huge",
+    "Race + alignment": "giant, Chaotic Good",
+    "HP": "230 (20d12+100)",
+    "Armor": "16 (Scale Mail)",
+    "Speed": "50 ft., swim 50 ft.",
+    "Challenge rating  (XP)": "13 (10,000 XP)"
+  },
+  {
+    "Name": "Succubus",
+    "Size": "Medium",
+    "Race + alignment": "Fiend (Shapechanger), Neutral Evil",
+    "HP": "66 (12d8 + 12)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Succubus (Incubus)",
+    "Size": "Medium",
+    "Race + alignment": "fiend (shapechanger), Neutral Evil",
+    "HP": "66 (12d8+12)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Swarm of Bats",
+    "Size": "Medium",
+    "Race + alignment": "swarm of tiny beasts, Unaligned",
+    "HP": "22 (5d8)",
+    "Armor": "12",
+    "Speed": "0 ft., fly 30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Swarm of Beetles",
+    "Size": "Medium",
+    "Race + alignment": "swarm of tiny beasts, Unaligned",
+    "HP": "22 (5d8)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "20 ft., burrow 5 ft., climb 20 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Swarm of Centipedes",
+    "Size": "Medium",
+    "Race + alignment": "swarm of tiny beasts, Unaligned",
+    "HP": "22 (5d8)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "20 ft., climb 20 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Swarm of Insects",
+    "Size": "Medium",
+    "Race + alignment": "swarm of tiny beasts, Unaligned",
+    "HP": "22 (5d8)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "20 ft., climb 20 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Swarm of Poisonous Snakes",
+    "Size": "Medium",
+    "Race + alignment": "swarm of tiny beasts, Unaligned",
+    "HP": "36 (8d8)",
+    "Armor": "14",
+    "Speed": "30 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Swarm of Quippers",
+    "Size": "Medium",
+    "Race + alignment": "swarm of tiny beasts, Unaligned",
+    "HP": "28 (8d8-8)",
+    "Armor": "13",
+    "Speed": "0 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Swarm of Rats",
+    "Size": "Medium",
+    "Race + alignment": "swarm of tiny beasts, Unaligned",
+    "HP": "24 (7d8-7)",
+    "Armor": "10",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Swarm of Ravens",
+    "Size": "Medium",
+    "Race + alignment": "swarm of tiny beasts, Unaligned",
+    "HP": "24 (7d8-7)",
+    "Armor": "12",
+    "Speed": "10 ft., fly 50 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Swarm of Spiders",
+    "Size": "Medium",
+    "Race + alignment": "swarm of tiny beasts, Unaligned",
+    "HP": "22 (5d8)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "20 ft., climb 20 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Swarm of Wasps",
+    "Size": "Medium",
+    "Race + alignment": "swarm of tiny beasts, Unaligned",
+    "HP": "22 (5d8)",
+    "Armor": "12 (Natural Armor)",
+    "Speed": "5 ft., fly 30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Tarrasque",
+    "Size": "Gargantuan",
+    "Race + alignment": "monstrosity (titan), Unaligned",
+    "HP": "676 (33d20+330)",
+    "Armor": "25 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "30 (155,000 XP)"
+  },
+  {
+    "Name": "Thug",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Non-good Alignment",
+    "HP": "32 (5d8+10)",
+    "Armor": "11 (Leather Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Tiger",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "37 (5d10+10)",
+    "Armor": "12",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1 (200 XP)"
+  },
+  {
+    "Name": "Treant",
+    "Size": "Huge",
+    "Race + alignment": "plant, Chaotic Good",
+    "HP": "138 (12d12+60)",
+    "Armor": "16 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "9 (5,000 XP)"
+  },
+  {
+    "Name": "Tribal Warrior",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "11 (2d8+2)",
+    "Armor": "12 (Hide Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "1/8 (25 XP)"
+  },
+  {
+    "Name": "Triceratops",
+    "Size": "Huge",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "95 (10d12+30)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Troll",
+    "Size": "Large",
+    "Race + alignment": "giant, Chaotic Evil",
+    "HP": "84 (8d10+40)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Tyrannosaurus Rex",
+    "Size": "Huge",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "136 (13d12+52)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "8 (3,900 XP)"
+  },
+  {
+    "Name": "Unicorn",
+    "Size": "Large",
+    "Race + alignment": "celestial, Lawful Good",
+    "HP": "67 (9d10+18)",
+    "Armor": "12",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Vampire",
+    "Size": "Medium",
+    "Race + alignment": "undead (shapechanger), Lawful Evil",
+    "HP": "144 (17d8+68)",
+    "Armor": "16 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "13 (10,000 XP)"
+  },
+  {
+    "Name": "Vampire Spawn",
+    "Size": "Medium",
+    "Race + alignment": "undead, Neutral Evil",
+    "HP": "82 (11d8+33)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Veteran",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (any race), Any Alignment",
+    "HP": "58 (9d8+18)",
+    "Armor": "17 (Splint)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Violet Fungus",
+    "Size": "Medium",
+    "Race + alignment": "plant, Unaligned",
+    "HP": "18 (4d8)",
+    "Armor": "5",
+    "Speed": "5 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Vrock",
+    "Size": "Large",
+    "Race + alignment": "fiend (demon), Chaotic Evil",
+    "HP": "104 (11d10+44)",
+    "Armor": "15 (Natural Armor)",
+    "Speed": "40 ft., fly 60 ft.",
+    "Challenge rating  (XP)": "6 (2,300 XP)"
+  },
+  {
+    "Name": "Vulture",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "5 (1d8+1)",
+    "Armor": "10",
+    "Speed": "10 ft., fly 50 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Warhorse",
+    "Size": "Large",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "19 (3d10+3)",
+    "Armor": "11",
+    "Speed": "60 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Warhorse Skeleton",
+    "Size": "Large",
+    "Race + alignment": "undead, Lawful Evil",
+    "HP": "22 (3d10+6)",
+    "Armor": "13 (Barding Scraps)",
+    "Speed": "60 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Water Elemental",
+    "Size": "Large",
+    "Race + alignment": "elemental, Neutral",
+    "HP": "114 (12d10+48)",
+    "Armor": "14 (Natural Armor)",
+    "Speed": "30 ft., swim 90 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Weasel",
+    "Size": "Tiny",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "1 (1d4-1)",
+    "Armor": "13",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "0 (10 XP)"
+  },
+  {
+    "Name": "Werebear",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (human, shapechanger), Neutral Good",
+    "HP": "135 (18d8+54)",
+    "Armor": "10 (In Humanoid Form, 11 In Bear And Hybrid Forms )",
+    "Speed": "30 ft. (40 ft., climb 30 ft. in bear or hybrid form)",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Wereboar",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (human, shapechanger), Neutral Evil",
+    "HP": "78 (12d8+24)",
+    "Armor": "10 (In Humanoid Form, 11 In Boar And Hybrid Forms )",
+    "Speed": "30 ft. (40 ft. in boar form)",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Wererat",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (human, shapechanger), Lawful Evil",
+    "HP": "33 (6d8+6)",
+    "Armor": "12",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Weretiger",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (human, shapechanger), Neutral",
+    "HP": "120 (16d8+48)",
+    "Armor": "12",
+    "Speed": "30 ft. (40 ft. in tiger form)",
+    "Challenge rating  (XP)": "4 (1,100 XP)"
+  },
+  {
+    "Name": "Werewolf",
+    "Size": "Medium",
+    "Race + alignment": "humanoid (human, shapechanger), Chaotic Evil",
+    "HP": "58 (9d8+18)",
+    "Armor": "11 (In Humanoid Form, 12 In Wolf Or Hybrid Form)",
+    "Speed": "30 ft. (40 ft. in wolf form)",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "White Dragon Wyrmling",
+    "Size": "Medium",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "32 (5d8+10)",
+    "Armor": "16 (Natural Armor)",
+    "Speed": "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Wight",
+    "Size": "Medium",
+    "Race + alignment": "undead, Neutral Evil",
+    "HP": "45 (6d8+18)",
+    "Armor": "14 (Studded Leather)",
+    "Speed": "30 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Will-o'-Wisp",
+    "Size": "Tiny",
+    "Race + alignment": "undead, Chaotic Evil",
+    "HP": "22",
+    "Armor": "19",
+    "Speed": "0 ft., fly 50 ft. (hover)",
+    "Challenge rating  (XP)": "2 (450 XP)"
+  },
+  {
+    "Name": "Winter Wolf",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Neutral Evil",
+    "HP": "75 (10d10+20)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "3 (700 XP)"
+  },
+  {
+    "Name": "Wolf",
+    "Size": "Medium",
+    "Race + alignment": "beast, Unaligned",
+    "HP": "11 (2d8+2)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "40 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  },
+  {
+    "Name": "Worg",
+    "Size": "Large",
+    "Race + alignment": "monstrosity, Neutral Evil",
+    "HP": "26 (4d10+4)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "50 ft.",
+    "Challenge rating  (XP)": "1/2 (100 XP)"
+  },
+  {
+    "Name": "Wraith",
+    "Size": "Medium",
+    "Race + alignment": "undead, Neutral Evil",
+    "HP": "67 (9d8+27)",
+    "Armor": "13",
+    "Speed": "0 ft., fly 60 ft. (hover)",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Wyvern",
+    "Size": "Large",
+    "Race + alignment": "dragon, Unaligned",
+    "HP": "110 (13d10+39)",
+    "Armor": "13 (Natural Armor)",
+    "Speed": "20 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "6 (2,300 XP)"
+  },
+  {
+    "Name": "Xorn",
+    "Size": "Medium",
+    "Race + alignment": "elemental, Neutral",
+    "HP": "73 (7d8+42)",
+    "Armor": "19 (Natural Armor)",
+    "Speed": "20 ft., burrow 20 ft.",
+    "Challenge rating  (XP)": "5 (1,800 XP)"
+  },
+  {
+    "Name": "Young Black Dragon",
+    "Size": "Large",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "127 (15d10+45)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "7 (2,900 XP)"
+  },
+  {
+    "Name": "Young Blue Dragon",
+    "Size": "Large",
+    "Race + alignment": "dragon, Lawful Evil",
+    "HP": "152 (16d10+64)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft., burrow 40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "9 (5,000 XP)"
+  },
+  {
+    "Name": "Young Brass Dragon",
+    "Size": "Large",
+    "Race + alignment": "dragon, Chaotic Good",
+    "HP": "110 (13d10+39)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "40 ft., burrow 20 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "6 (2,300 XP)"
+  },
+  {
+    "Name": "Young Bronze Dragon",
+    "Size": "Large",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "142 (15d10+60)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "8 (3,900 XP)"
+  },
+  {
+    "Name": "Young Copper Dragon",
+    "Size": "Large",
+    "Race + alignment": "dragon, Chaotic Good",
+    "HP": "119 (14d10+42)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "40 ft., climb 40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "7 (2,900 XP)"
+  },
+  {
+    "Name": "Young Gold Dragon",
+    "Size": "Large",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "178 (17d10+85)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "10 (5,900 XP)"
+  },
+  {
+    "Name": "Young Green Dragon",
+    "Size": "Large",
+    "Race + alignment": "dragon, Lawful Evil",
+    "HP": "136 (16d10+48)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "8 (3,900 XP)"
+  },
+  {
+    "Name": "Young Red Dragon",
+    "Size": "Large",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "178 (17d10+85)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft., climb 40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "10 (5,900 XP)"
+  },
+  {
+    "Name": "Young Silver Dragon",
+    "Size": "Large",
+    "Race + alignment": "dragon, Lawful Good",
+    "HP": "168 (16d10+80)",
+    "Armor": "18 (Natural Armor)",
+    "Speed": "40 ft., fly 80 ft.",
+    "Challenge rating  (XP)": "9 (5,000 XP)"
+  },
+  {
+    "Name": "Young White Dragon",
+    "Size": "Large",
+    "Race + alignment": "dragon, Chaotic Evil",
+    "HP": "133 (14d10+56)",
+    "Armor": "17 (Natural Armor)",
+    "Speed": "40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.",
+    "Challenge rating  (XP)": "6 (2,300 XP)"
+  },
+  {
+    "Name": "Zombie",
+    "Size": "Medium",
+    "Race + alignment": "undead, Neutral Evil",
+    "HP": "22 (3d8+9)",
+    "Armor": "8",
+    "Speed": "20 ft.",
+    "Challenge rating  (XP)": "1/4 (50 XP)"
+  }
+]
